@@ -1,0 +1,4 @@
+*** Error 100 "C:\Users\Entrenador de Focas\Documents\Facultad de Telemática\Cuarto Semestre\Sistemas Embebidos\Examen Parcial2\Código en C\examenparcial2.h" Line 11(5,70): USE parameter value is out of range   Not a number: NONE
+*** Error 58 "examenparcial2.c" Line 15(24,29): Expecting a close paren
+*** Error 132 "examenparcial2.c" Line 16(19,22): STDOUT not defined (may be missing #USE RS232)  ::
+*** Error 132 "examenparcial2.c" Line 28(26,29): STDOUT not defined (may be missing #USE RS232)  ::

@@ -5,12 +5,12 @@
 
 void main()
 {
-	setup_timer_0(RTCC_INTERNAL|RTCC_DIV_8);		//131 ms overflow
+   setup_timer_0(RTCC_INTERNAL|RTCC_DIV_8);      //131 ms sobrecarga
 
 
-	while(TRUE)
-	{
-		//TODO: User Code
-	}
+   while(TRUE)
+   {
+      
+   }
 
 }
